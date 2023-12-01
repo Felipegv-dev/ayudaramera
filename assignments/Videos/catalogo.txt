@@ -1,0 +1,5 @@
+Pelicula Titanic Drama 8 1997 195 James_Cameron Paramount_Pictures
+Serie Breaking_Bad Drama 2008 60 Vince_Gilligan 62
+Pelicula Inception Ciencia_Ficcion 9 2010 148 Christopher_Nolan Warner_Bros
+Serie Stranger_Things Fantasia 2016 50 Matt_Duffer 25
+Pelicula The_Shawshank_Redemption Drama 9.5 1994 142 Frank_Darabont Columbia_Pictures
